@@ -2,7 +2,13 @@
 
 ## Overview
 
-Here you can find documentation for our various hardware and software projects.<br>
+Here you can find documentation for our various hardware and software projects including:
+
+* Taxi Bike v3
+* Taxi Bike v2
+* Taxi Bike v1
+* GPS Tracker Setup & Documentation
+* E-Bike Taxi Fleet Service Website
 
 ## Contact Information
 
